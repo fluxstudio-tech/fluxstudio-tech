@@ -36,7 +36,7 @@ Our core philosophy focuses on maximum performance, rock-solid security, and sea
 <p align="left">
 <a href="https://www.instagram.com/karatasmuhammed1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Flux Studio Instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@BlackCodesxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Flux Studio YouTube" height="30" width="40" /></a>
-<a href="https://discord.gg/vmGpNyTKXg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Flux Studio Discord" height="30" width="40" /></a>
+<a href="https://discord.gg/HNxsFgSxWN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Flux Studio Discord" height="30" width="40" /></a>
 </p>
 
 ---
