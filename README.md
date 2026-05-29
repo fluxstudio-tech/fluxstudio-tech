@@ -18,7 +18,7 @@ Our core philosophy focuses on maximum performance, rock-solid security, and sea
 
 - 🔭 **Current Focus:** Scaling production-ready solutions and full-stack enterprise web systems at **Flux Studio**.
 - ⚡ **Specialization:** Deeply focusing on zero-latency optimization, performance architecture, and modern full-stack frameworks.
-- 📫 **Inquiries & Business:** **mhmmdkartas02@gmail.com**
+- 📫 **Inquiries & Business:** **info@studioflux.com.tr**
 
 ---
 
