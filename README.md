@@ -6,7 +6,7 @@
 </p>
  
 <p align="center"> 
-  <img src="https://media.discordapp.net/attachments/1396158389339553822/1396183809439039509/baner.png?ex=687f2340&is=687dd1c0&hm=a00415c3af38012054d831f5401480ca44a6aff9056cab9b1cb32aedc9012ce8&=&format=webp&quality=lossless&width=1536&height=864" alt="Flux Studio Banner" />
+  <img src="[https://media.discordapp.net/attachments/1396158389339553822/1396183809439039509/baner.png?ex=687f2340&is=687dd1c0&hm=a00415c3af38012054d831f5401480ca44a6aff9056cab9b1cb32aedc9012ce8&=&format=webp&quality=lossless&width=1536&height=864" alt="Flux Studio Banner](https://cdn.discordapp.com/attachments/1487440945078206535/1510029932095602688/PngTEST.png?ex=6a1b5476&is=6a1a02f6&hm=5521dc58c545e71b4ac6a378ad83e18dcd71444e05b0b6f13501efb3bf839e3d&)" />
 </p>
 
 ---
